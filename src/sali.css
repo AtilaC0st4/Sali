@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #F5F1EB;
+}
+
+
+
+.cabecalho{
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    border-bottom: 1px solid #4b20002d;
+}
+
+.logo{
+    width: 70px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    list-style: none;
+}
