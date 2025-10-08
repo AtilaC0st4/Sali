@@ -4,7 +4,7 @@
 
         return(
             <ul className="menu">
-                {props.links.map(link => {return(<li>{link}</li>)} )}
+                {props.links.map(link => {return(<li key={link}>{link}</li>)} )}
             </ul>
         )
 
