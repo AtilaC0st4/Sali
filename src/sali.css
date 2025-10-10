@@ -21,7 +21,7 @@
     font-weight: bold;
 }
 
-.cabecalho li:hover{
+.cabecalho li:hover {
     text-decoration: underline;
     cursor: pointer;
 }
@@ -56,21 +56,45 @@
     flex-direction: column;
     justify-content: space-between;
 }
+
 .cardProduto:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
-  scale: 1.02;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    scale: 1.02;
 }
+
 .cardProduto img {
     width: 100%;
     object-fit: cover;
     border-radius: 12px;
 }
 
-.cardProduto h3{
+.cardProduto h3 {
     font-size: 18px;
     font-weight: 500;
 }
 
-.cardProduto span{
+.cardProduto span {
     font-weight: bold;
+}
+
+
+.banner {
+    width: 100%;
+    height: 80vh;
+    background-image: url('./../public/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 32px;
+    display: flex;
+    align-items: center;
+}
+
+.tituloBanner{
+    color: #F5F1EB;
+    background: none;
+    font-size:70px;
+    width: 40%;
+    
 }
