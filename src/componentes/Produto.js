@@ -1,15 +1,11 @@
-import React, { useEffect, useState } from "react";
-import produtosData from "../data/produtos.json"
+import React, { useContext } from "react";
+import { ProdutoContexto } from "../ProdutoContexto";
+
 
 
 function Produto(){
 
-const [produtos, setProdutos] = useState([])
-
-
-useEffect(()=>{
-    setProdutos(produtosData)
-},[])
+const [produtos] = useContext(ProdutoContexto)
 
 return(
 

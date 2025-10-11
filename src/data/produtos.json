@@ -4,139 +4,159 @@
     "nome": "Vela Aromática Lavanda Relax",
     "preco": 49.90,
     "imagem": "/vela.png",
-    "descricao": "Vela artesanal com fragrância de lavanda, ideal para relaxar e reduzir o estresse."
+    "descricao": "Vela artesanal com fragrância de lavanda, ideal para relaxar e reduzir o estresse.",
+    "destaque": false
   },
   {
     "id": 2,
     "nome": "Vela Baunilha & Amêndoas",
     "preco": 54.90,
     "imagem": "/vela.png",
-    "descricao": "Aroma doce e aconchegante que cria uma atmosfera acolhedora em qualquer ambiente."
+    "descricao": "Aroma doce e aconchegante que cria uma atmosfera acolhedora em qualquer ambiente.",
+    "destaque": false
   },
   {
     "id": 3,
     "nome": "Vela Cedro & Patchouli",
     "preco": 59.90,
     "imagem": "/vela.png",
-    "descricao": "Combinação amadeirada e envolvente, perfeita para momentos de introspecção."
+    "descricao": "Combinação amadeirada e envolvente, perfeita para momentos de introspecção.",
+    "destaque": false
   },
   {
     "id": 4,
     "nome": "Vela Flor de Laranjeira",
     "preco": 52.00,
     "imagem": "/vela.png",
-    "descricao": "Toque cítrico e floral que traz sensação de frescor e leveza."
+    "descricao": "Toque cítrico e floral que traz sensação de frescor e leveza.",
+    "destaque": false
   },
   {
     "id": 5,
     "nome": "Vela Eucalipto & Hortelã",
     "preco": 48.50,
     "imagem": "/vela.png",
-    "descricao": "Fragrância revigorante e refrescante, ideal para purificar o ambiente."
+    "descricao": "Fragrância revigorante e refrescante, ideal para purificar o ambiente.",
+    "destaque": false
   },
   {
     "id": 6,
     "nome": "Vela Canela & Maçã",
     "preco": 46.90,
     "imagem": "/vela.png",
-    "descricao": "Aromas natalinos que despertam memórias afetivas e aquecem o coração."
+    "descricao": "Aromas natalinos que despertam memórias afetivas e aquecem o coração.",
+    "destaque": false
   },
   {
     "id": 7,
     "nome": "Vela Rosa & Sândalo",
     "preco": 55.00,
     "imagem": "/vela.png",
-    "descricao": "Mistura sofisticada de notas florais e amadeiradas, perfeita para jantares românticos."
+    "descricao": "Mistura sofisticada de notas florais e amadeiradas, perfeita para jantares românticos.",
+    "destaque": false
   },
   {
     "id": 8,
     "nome": "Vela Café Torrado",
     "preco": 44.90,
     "imagem": "/vela.png",
-    "descricao": "Aroma intenso de café recém-passado, ideal para quem ama o cheirinho de manhã."
+    "descricao": "Aroma intenso de café recém-passado, ideal para quem ama o cheirinho de manhã.",
+    "destaque": false
   },
   {
     "id": 9,
     "nome": "Vela Jasmim do Campo",
     "preco": 49.00,
     "imagem": "/vela.png",
-    "descricao": "Perfume floral delicado que remete à natureza e tranquilidade."
+    "descricao": "Perfume floral delicado que remete à natureza e tranquilidade.",
+    "destaque": false
   },
   {
     "id": 10,
     "nome": "Vela Coco & Limão Siciliano",
     "preco": 56.90,
     "imagem": "/vela.png",
-    "descricao": "Combinação tropical e cítrica, trazendo energia e vitalidade ao ambiente."
+    "descricao": "Combinação tropical e cítrica, trazendo energia e vitalidade ao ambiente.",
+    "destaque": false
   },
   {
     "id": 11,
     "nome": "Vela Algodão & Lírio Branco",
     "preco": 47.90,
     "imagem": "/vela.png",
-    "descricao": "Aroma leve e limpo, ideal para quem prefere fragrâncias suaves."
+    "descricao": "Aroma leve e limpo, ideal para quem prefere fragrâncias suaves.",
+    "destaque": false
   },
   {
     "id": 12,
     "nome": "Vela Mel & Aveia",
     "preco": 53.50,
     "imagem": "/vela.png",
-    "descricao": "Notas doces e aconchegantes que proporcionam bem-estar e conforto."
+    "descricao": "Notas doces e aconchegantes que proporcionam bem-estar e conforto.",
+    "destaque": false
   },
   {
     "id": 13,
     "nome": "Vela Chá Verde & Gengibre",
     "preco": 51.00,
     "imagem": "/vela.png",
-    "descricao": "Aroma refrescante e energizante, ideal para renovar as energias."
+    "descricao": "Aroma refrescante e energizante, ideal para renovar as energias.",
+    "destaque": false
   },
   {
     "id": 14,
     "nome": "Vela Verbena & Limão",
     "preco": 45.00,
     "imagem": "/vela.png",
-    "descricao": "Fragrância cítrica e leve, perfeita para ambientes de trabalho."
+    "descricao": "Fragrância cítrica e leve, perfeita para ambientes de trabalho.",
+    "destaque": false
   },
   {
     "id": 15,
     "nome": "Vela Pinho Silvestre",
     "preco": 50.90,
     "imagem": "/vela.png",
-    "descricao": "Notas verdes e amadeiradas que lembram o frescor das florestas."
+    "descricao": "Notas verdes e amadeiradas que lembram o frescor das florestas.",
+    "destaque": false
   },
   {
     "id": 16,
     "nome": "Vela Maracujá & Camomila",
     "preco": 49.90,
     "imagem": "/vela.png",
-    "descricao": "Fragrância suave e calmante, ideal para relaxar antes de dormir."
+    "descricao": "Fragrância suave e calmante, ideal para relaxar antes de dormir.",
+    "destaque": false
   },
   {
     "id": 17,
     "nome": "Vela Flor de Cerejeira",
     "preco": 57.00,
     "imagem": "/vela.png",
-    "descricao": "Aroma floral delicado inspirado na primavera japonesa."
+    "descricao": "Aroma floral delicado inspirado na primavera japonesa.",
+    "destaque": false
   },
   {
     "id": 18,
     "nome": "Vela Tangerina & Manjericão",
     "preco": 52.90,
     "imagem": "/vela.png",
-    "descricao": "Combinação exótica e refrescante que estimula a criatividade."
+    "descricao": "Combinação exótica e refrescante que estimula a criatividade.",
+    "destaque": false
   },
   {
     "id": 19,
     "nome": "Vela Figo & Âmbar",
     "preco": 59.00,
     "imagem": "/vela.png",
-    "descricao": "Aroma sofisticado e elegante, ideal para ambientes refinados."
+    "descricao": "Aroma sofisticado e elegante, ideal para ambientes refinados.",
+    "destaque": false
   },
   {
     "id": 20,
     "nome": "Vela Noite de Inverno",
     "preco": 61.90,
     "imagem": "/vela.png",
-    "descricao": "Notas de musk, baunilha e madeira que criam um clima acolhedor."
+    "descricao": "Notas de musk, baunilha e madeira que criam um clima acolhedor.",
+    "destaque": false
   }
 ]

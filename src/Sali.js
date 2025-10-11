@@ -1,21 +1,24 @@
 import React from "react";
 import Cabecalho from "./componentes/Cabecalho";
 import "./sali.css"
-import Produto from "./componentes/Produto";
-import Banner from "./componentes/Banner";
+import { ProdutoProvider } from "./ProdutoContexto";
+import Destaques from "./componentes/Destaques";
 
 
 
-function Sali(){
+function Sali() {
 
-    return(
-    <>
-        <Cabecalho></Cabecalho>
+    return (
+        <>
+            <ProdutoProvider>
+                <Cabecalho></Cabecalho>
 
-        <Banner></Banner>
-        
-        <Produto></Produto>
-    </>    
+                <Destaques></Destaques>
+
+                
+
+            </ProdutoProvider>
+        </>
     )
 
 }
