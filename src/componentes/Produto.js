@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { ProdutoContexto } from "../ProdutoContexto";
+import Card from "./Card";
 
 
 
@@ -9,7 +10,11 @@ const [produtos] = useContext(ProdutoContexto)
 
 return(
 
-    <div className="produtos">
+
+<Card produtos={produtos}></Card>
+    
+
+   /* <div className="produtos">
         {produtos.map((produto) => { return(
             <div className="cardProduto" key={produto.id}>
                 <img alt={produto.name} src={produto.imagem}></img>                
@@ -18,9 +23,9 @@ return(
                 </div>
         )})}
     </div>
-     
+     */
 )
 
 
 
-} export default Produto;
+}export default Produto;

@@ -5,7 +5,7 @@
     "preco": 49.90,
     "imagem": "/vela.png",
     "descricao": "Vela artesanal com fragrância de lavanda, ideal para relaxar e reduzir o estresse.",
-    "destaque": false
+    "destaque": true
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "preco": 46.90,
     "imagem": "/vela.png",
     "descricao": "Aromas natalinos que despertam memórias afetivas e aquecem o coração.",
-    "destaque": false
+    "destaque": true
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "preco": 44.90,
     "imagem": "/vela.png",
     "descricao": "Aroma intenso de café recém-passado, ideal para quem ama o cheirinho de manhã.",
-    "destaque": false
+    "destaque": true
   },
   {
     "id": 9,
