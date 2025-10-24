@@ -15,16 +15,11 @@ function Sali() {
             <ProdutoProvider>
                 <Cabecalho></Cabecalho>
 
-                <Produto></Produto>
-
-                { /*  
-                <Banner></Banner>
-
+             
                 
                 
                 <Beneficios> </Beneficios>
                 
-                */}
             </ProdutoProvider>
         </>
     )
