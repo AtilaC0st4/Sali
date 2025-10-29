@@ -17,7 +17,7 @@ function Destaques() {
 
   return (
     <div className="destaque">
-      <h2>Produtos mais vendidos</h2>
+      <h2 className="titulo">Produtos mais vendidos</h2>
       
       <Card produtos={destaques}></Card>
 

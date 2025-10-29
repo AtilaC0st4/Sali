@@ -13,17 +13,6 @@ return(
 
 <Card produtos={produtos}></Card>
     
-
-   /* <div className="produtos">
-        {produtos.map((produto) => { return(
-            <div className="cardProduto" key={produto.id}>
-                <img alt={produto.name} src={produto.imagem}></img>                
-                <h3>{produto.nome}</h3>
-                <span>R$ {produto.preco.toFixed(2)}</span>
-                </div>
-        )})}
-    </div>
-     */
 )
 
 

@@ -5,7 +5,7 @@ import { ProdutoProvider } from "./ProdutoContexto";
 import Destaques from "./componentes/Destaques";
 import Banner from "./componentes/Banner";
 import Beneficios from "./componentes/Beneficios";
-import Produto from "./componentes/Produto";
+import Rodape from "./componentes/Rodape";
 
 
 function Sali() {
@@ -15,10 +15,10 @@ function Sali() {
             <ProdutoProvider>
                 <Cabecalho></Cabecalho>
 
-             
-                
-                
+                <Banner></Banner>
+                <Destaques></Destaques>
                 <Beneficios> </Beneficios>
+                <Rodape></Rodape>
                 
             </ProdutoProvider>
         </>
